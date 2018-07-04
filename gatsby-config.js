@@ -22,5 +22,5 @@ module.exports = {
       }
     }
   ],
-  pathPrefix: "/blog"
+  pathPrefix: "/Blog"
 }
