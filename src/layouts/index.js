@@ -64,11 +64,11 @@ const Layout = ({ children, data }) => (
               <div style={{ flex: 1 }}>
                 <Sidebar
                   title="About"
-                  description="Articles on my personal expierences with web development and programming."
+                  description="Articles on my personal experiences with web development and programming."
                 />
                 <Sidebar
                   title="About author"
-                  description="Hello! My name is Ryan and I am a 14 year web developer documenting my programming expierences"
+                  description="Hello! My name is Ryan and I am a 14 year web developer documenting my programming expirences"
                 />
                 <SocialMediaButtons />
               </div>
