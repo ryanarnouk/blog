@@ -67,8 +67,8 @@ const Layout = ({ children, data }) => (
                   description="Articles on my personal experiences with web development and programming."
                 />
                 <Sidebar
-                  title="About author"
-                  description="Hello! My name is Ryan and I am a 14 year web developer documenting my programming experiences"
+                  title="About the Author"
+                  description="Hello! My name is Ryan and I am web developer documenting my programming experiences with JavaScript, React, and programming in general."
                 />
                 <SocialMediaButtons />
               </div>
