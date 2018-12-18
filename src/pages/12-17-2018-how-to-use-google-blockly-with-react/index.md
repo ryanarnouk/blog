@@ -17,7 +17,7 @@ import Blockly from 'node-blockly/browser'
 import 'node-blockly/lib/javascript_compressed';
 ```
 
-Great! Now that we have Blockly in our file we can load our toolbox. Our toolbox will load the xml for all of our blocks we will end up using in our app, and if you make custom blocks you can add them to the toolbox. 
+Great! Now that we have Blockly in our file we can load our toolbox. Our toolbox will load the xml for all of our blocks we will end up using in our app, and if you make custom blocks you can add them to the toolbox. You can learn more about the toolbox <a href="https://developers.google.com/blockly/guides/configure/web/toolbox" target="_blank">here</a>
 
 ```
 const toolbox = `
