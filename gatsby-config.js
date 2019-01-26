@@ -26,6 +26,12 @@ module.exports = {
         head: true, 
         respectDNT: true
       }
+    },
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `pub-2430408030851998`
+      }
     }
   ],
   pathPrefix: "/Blog"
