@@ -68,7 +68,7 @@ const Layout = ({ children, data }) => (
                 />
                 <Sidebar
                   title="About the Author"
-                  description="Hello! My name is Ryan and I am web developer documenting my programming experiences with JavaScript, React, and programming in general."
+                  description="Hello! My name is Ryan and I am an aspiring web developer documenting my programming experiences with JavaScript, React, and programming in general."
                 />
                 <SocialMediaButtons />
               </div>
