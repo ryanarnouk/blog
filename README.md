@@ -1,7 +1,9 @@
 # Blog
-This is the code for my blog application, that uses React and Gatsby. 
+This is the code for my blog application. 
 
-Check it out at https://azbo400.github.io/blog
+Developed with React and Gatsby. 
 
------------
+Check it out at https://ryanarnouk.github.io/blog
+
+------------
 Ryan A 2018
